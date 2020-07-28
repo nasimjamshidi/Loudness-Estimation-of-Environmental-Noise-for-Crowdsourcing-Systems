@@ -1,0 +1,11 @@
+matplotlib
+statistics
+librosa
+sklearn
+skorch
+pandas
+torch
+pickle
+numpy
+re
+os
